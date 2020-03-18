@@ -3,6 +3,9 @@ Consider there are initially two types of people present in any situation- sick 
 
 ![](SI_SIR.gif)
 
+Let us define our people! The blue ones and the red ones are the people who are healthy and sick respectively. After some time, we have some pink circles appearing in the left video indicating recovered people (The embedded media is a GIF file, so it runs in a loop). The people in our toy example are moving randomly, and when an infected person meets a healthy person he becomes sick. This models are widely used in epidemiology, and they correctly depict many disease spread like HIV. Here one must have a 'direct' contact with the infected person to acquire the infection. 
+The life span of COVID-19 outside human body is yet debatable, but some studies show that it can be active quite long on different surfaces, and one does not require direct contact to be infected. This no longer allow us to use direct contamination models. We move to a model where a healthy person may become sick if he touches a surface which is infected by some sick person within a time span. We call this 'persistent contamination'as the virus remains active for longer period. 
+
 
 
 ## Disclaimar
