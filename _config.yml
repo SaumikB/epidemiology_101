@@ -2,6 +2,7 @@ github:
   is_project_page: false
 title: Epidemiology 101
 description : Bunch of oversimplified simulations to understand epidemic spread
-theme: jekyll-theme-cayman
 markdown: GFM
+theme: jekyll-theme-cayman
+
 
