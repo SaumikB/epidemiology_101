@@ -1,6 +1,6 @@
 github:
   is_project_page: false
 title: Epidemiology 101
-description : Bunch of simulations to understand epidemic spread
+description : Bunch of oversimplified simulations to understand epidemic spread
 theme: jekyll-theme-cayman
 
