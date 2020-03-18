@@ -1,5 +1,6 @@
 github:
   is_project_page: false
-theme: jekyll-theme-cayman
 title: Saumik Bhattacharya
 description : The more I read, the more I acquire, the more certain I am that I know nothing
+theme: jekyll-theme-cayman
+
